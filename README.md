@@ -13,9 +13,9 @@ ksia의 wplace 작업물들!
 ㄹㅇ이가;
 
 
-## 2 - 키레네
+## 2 - 반디
 
-<a href="키레네.md">
+<a href="반디.md">
 <img width="480" alt="KakaoTalk_20251206_230227777" src="https://github.com/user-attachments/assets/930fac0e-1bab-40a0-baa1-b97bdff8a919" />  
 </a>
 
